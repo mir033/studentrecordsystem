@@ -18,6 +18,8 @@ The Student Record System will collect the data of the students to create an acc
 By doing validation on input forms, users will receive an error notification every time the data submitted does not match with the requirement from the system. This will ensure the data quality of the users.
 
 ## Authentication
+We authenticate by using jsp and html, css form to authenticate students in our project.
+
 ## Authorization
 ## XSS and CSRF preventation
 ## Database security principal
