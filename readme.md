@@ -23,7 +23,7 @@ We authenticate by using jsp and html, css form to authenticate students in our 
 ## Authorization
 ## XSS and CSRF preventation
 ## Database security principal
- We are using the java as a middleman to connect to the database. Make use of java class to execute the query.
+ We are using the java as a middleman to connect to the database. Make use of java class to execute the query. The two java classes that embeded in the code is insert data and connector both are .java file.
 
 ## File Security principle
 We separate the front end and back end part into the separate field and using the the valid file extension
