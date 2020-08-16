@@ -5,7 +5,7 @@
 - SHAMIM AHMMED SIDDIQUE 1528045
 - MUHAMAD AMIR SYAFIQ BIN ABD HADI 1629953	
 - MUHAMMAD IHSAN 1529221
-- ?
+- AHMAD NAUFAL BIN ZUHAIRI 1629935
 
 ## Introduction
 The Student Record System will collect the data of the students to create an accurate record of the students, from name, matric number, address, and more, that might be useful for any purpose in the future, namely, for education or emergency purposes. 
